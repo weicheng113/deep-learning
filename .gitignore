@@ -19,3 +19,7 @@ image-classification/image_classification.*
 image-classification/checkpoint
 
 sh.exe.stackdump
+**/.idea/**
+**/checkpoint
+**/save.*
+**/*.iml
